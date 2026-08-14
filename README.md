@@ -8,5 +8,4 @@ The code was developed by Ahnsei Shon, Ph.D., at the Kentucky Spinal Cord Injury
 
 Place `transitionHeatmap.m` and `Transition_Point_XY_Coordinates.xlsx` in the same folder. Run `transitionHeatmap.m` in MATLAB. The code automatically loads and processes the coordinate data and generates the transition-point heatmap.
 
-
-
+To use your own data, replace the coordinate values in `Transition_Point_XY_Coordinates.xlsx` while retaining the existing column names and file structure.
